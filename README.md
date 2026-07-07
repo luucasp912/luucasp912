@@ -36,13 +36,15 @@ Arquitectura de Software • Docker • PostgreSQL • Seguridad en aplicaciones
 
 ## Estadísticas
 
-| GitHub Stats | Racha |
-|:------------:|:------:|
-| <img src="https://github-readme-stats.vercel.app/api?username=luucasp912&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=luucasp912&theme=tokyonight&hide_border=true" /> |
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luucasp912&show_icons=true&theme=github_dark&hide_border=true"/>
 
-| Lenguajes más utilizados |
-|:------------------------:|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasp912&layout=compact&theme=tokyonight&hide_border=true" /> |
+<br><br>
+
+<img height="170" src="https://streak-stats.demolab.com?user=luucasp912&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luucasp912&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 

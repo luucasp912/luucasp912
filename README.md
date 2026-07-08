@@ -4,9 +4,7 @@
 
 # Lucas Ponce
 
-**Estudiante de Ingeniería en Sistemas de Información (UTN)**
-
-Interesado en el desarrollo de software, el backend y las bases de datos.
+**Estudiante de Ingeniería en Sistemas de Información (UTN FRVM), enfocado en backend, bases de datos y seguridad en aplicaciones web.**
 
 </div>
 
@@ -17,16 +15,6 @@ Interesado en el desarrollo de software, el backend y las bases de datos.
 ## Herramientas y tecnologías
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,git,docker,vscode,linux"/>
-
-</div>
-
----
-
-<div align="center">
-
-## Aprendiendo
-
-Arquitectura de Software • Docker • PostgreSQL • Seguridad en aplicaciones web
 
 </div>
 

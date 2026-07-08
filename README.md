@@ -4,7 +4,7 @@
 
 # Lucas Ponce
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+(UTN+FRVM);Enfocado+en+backend+y+bases+de+datos;Con+foco+en+seguridad+en+aplicaciones+web" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+(UTN+FRVM);Enfocado+en+backend+y+bases+de+datos;Seguridad+de+aplicaciones+web" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ## Estadísticas
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luucasp912&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasponnce&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ## Contribuciones
 
-<img src="https://raw.githubusercontent.com/luucasp912/luucasp912/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/lucasponnce/lucasponnce/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
@@ -44,8 +44,14 @@
 
 ## Contacto
 
-<a href="https://github.com/luucasp912"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://github.com/lucasponnce">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:luucasponnce75@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
+<a href="mailto:luucasponnce75@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 </div>

@@ -6,7 +6,7 @@
 
 **Estudiante de Ingeniería en Sistemas de Información (UTN FRVM)**
 
-Enfocado en backend, bases de datos y seguridad en aplicaciones web.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Enfocado+en+backend+y+bases+de+datos;Con+foco+en+seguridad+en+aplicaciones+web" />
 
 </div>
 

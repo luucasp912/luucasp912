@@ -4,7 +4,9 @@
 
 # Lucas Ponce
 
-**Estudiante de Ingeniería en Sistemas de Información (UTN FRVM), enfocado en backend, bases de datos y seguridad en aplicaciones web.**
+**Estudiante de Ingeniería en Sistemas de Información (UTN FRVM)**
+
+Enfocado en backend, bases de datos y seguridad en aplicaciones web.
 
 </div>
 

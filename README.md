@@ -6,7 +6,7 @@
 
 **Estudiante de Ingeniería en Sistemas de Información (UTN FRVM)**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Enfocado+en+backend+y+bases+de+datos;Con+foco+en+seguridad+en+aplicaciones+web" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+(UTN+FRVM);Enfocado+en+backend+y+bases+de+datos;Con+foco+en+seguridad+en+aplicaciones+web" />
 
 </div>
 
